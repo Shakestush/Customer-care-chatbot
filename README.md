@@ -39,3 +39,6 @@ const responses = {
 
 ## 📄 License
 MIT License
+
+# Contact
+For any questions or support, please contact us at manassehmutugi222@gmail.com 
